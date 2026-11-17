@@ -89,3 +89,5 @@ while doing:
     #any other option
     else:
         print("the option is not valid")
+
+#please your feedback. after that, i want the make the difference with colour between the 2 status, the done and the pending ones.
